@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">T-Trips</string>
+    <string name="btn_back_description">Назад</string>
+    <string name="top_bar_header_add_trip">Добавить поездку</string>
+    <string name="top_bar_header_edit_profile">Редактировать профиль</string>
+    <string name="top_bar_header_add_members">Добавить участников</string>
+    <string name="top_bar_header_add_expense">Добавить расход</string>
+    <string name="top_bar_header_list_members">Список участников</string>
+    <string name="top_bar_header_look_trip_info">Информация о поездке</string>
+    <string name="top_bar_header_look_expense_info">Информация о расходе</string>
+    <string name="top_bar_header_notifications">Уведомления</string>
+    <string name="top_bar_header_divide_expense">Разделить сумму</string>
+    <string name="top_bar_header_report">Отчет о завершении поездки</string>
+
+    <string name="exception_msg_invalid_data_input">Некорректный ввод данных</string>
+    <string name="exception_msg_not_found">Данные не найдены</string>
+    <string name="exception_msg_forbidden">Доступ ограничен</string>
+    <string name="exception_msg_unauthorized">Требуется авторизация</string>
+    <string name="exception_msg_common">Неизвестная ошибка</string>
+    <string name="exception_msg_user_exist">Ошибка поиска пользователя</string>
+    <string name="exception_msg_auth_wrong_credentials">Неправильные логин или пароль</string>
+    <string name="exception_msg_auth">Ошибка авторизации</string>
+    <string name="exception_msg_trip">Ошибка получения поездки</string>
+    <string name="exception_msg_picture">Ошибка загрузки картинки</string>
+    <string name="exception_msg_profile">Ошибка получения данных профиля</string>
+    <string name="exception_msg_update_data">Ошибка обновления информации</string>
+    <string name="exception_msg_planned_expenses">Ошибка получения запланированных расходов</string>
+    <string name="exception_msg_actual_expenses">Ошибка получения фактических расходов</string>
+    <string name="exception_msg_invitation">Ошибка получения приглашений</string>
+    <string name="exception_msg_invitation_details">Ошибка получения информации о приглашении</string>
+    <string name="exception_msg_save_actual_expense">Ошибка сохранения фактического расхода</string>
+    <string name="exception_msg_save_planned_expense">Ошибка сохранения запланированного расхода</string>
+    <string name="exception_msg_debt">Ошибка получения данных о долгах</string>
+
+    <string name="exception_msg_log_out">Ошибка выхода</string>
+    <string name="exception_msg_add_trip">Ошибка добавления поездки</string>
+    <string name="exception_msg_check_members">Ошибка получения пользователей</string>
+    <string name="exception_msg_invite_members">Ошибка приглашения пользователей</string>
+
+
+    <string name="msg_update_data_success">Данные успешно обновлены</string>
+    <string name="msg_delete_data_success">Данные успешно удалены</string>
+    <string name="msg_save_data_success">Данные успешно сохранены</string>
+    <string name="msg_finish_trip_success">Поездка завершена и отправлена в архив</string>
+    <string name="msg_accept_invitation_success">Вы приняли приглашение</string>
+    <string name="msg_reject_invitation_success">Вы отклонили приглашение</string>
+
+    <string name="placeholder_text_input">Ввести</string>
+    <string name="label_name">Имя</string>
+    <string name="label_surname">Фамилия</string>
+    <string name="label_pass">Пароль</string>
+    <string name="label_phone_number">Номер телефона</string>
+    <string name="label_repeat_pass">Повторите пароль</string>
+    <string name="label_title">Название</string>
+    <string name="label_budget">Бюджет</string>
+    <string name="label_choose_date">Выбрать дату</string>
+    <string name="label_description">Описание</string>
+    <string name="label_amount">Сумма</string>
+    <string name="label_category">Категория</string>
+    <string name="label_who_you_paid">За кого вы заплатили?</string>
+    <string name="label_you_paid_for">Вы заплатили за</string>
+    <string name="label_paid_for">заплатил за</string>
+    <string name="label_receipt">Чек</string>
+    <string name="label_add_receipt">Добавить чек</string>
+    <string name="label_added_receipt">Чек добавлен</string>
+    <string name="label_way_to_divide_amount">Способ разделения суммы:</string>
+
+    <string name="paid_for_all">Всех</string>
+
+    <string name="auth_screen_phone_num_header">Введите\nномер телефона</string>
+    <string name="auth_screen_phone_num_text">Чтобы войти или стать\nклиентом Т-Путешествий</string>
+    <string name="auth_screen_pass_header">Введите пароль</string>
+    <string name="registration_screen_header">Стать клиентом\nТ-Путешествий</string>
+    <string name="registration_screen_text">Укажите ваши данные, чтобы использовать все функции приложения</string>
+
+    <string name="archive_screen_text">Нажмите на поездку,\nчтобы увидеть отчет</string>
+
+    <string name="report_title">Поездка "%1$s"\nзавершена</string>
+    <string name="report_subtitle">Нажмите на пользователя,\nчтобы посмотреть данные\nо долгах</string>
+    <string name="report_left_amount">Остаток: %1$d ₽</string>
+    <string name="debts">Долги</string>
+
+    <string name="contacts_screen_text">Мои контакты</string>
+
+    <string name="btn_continue_text">Продолжить</string>
+    <string name="btn_save_text">Сохранить</string>
+    <string name="btn_create_text">Создать</string>
+    <string name="btn_add_text">Добавить</string>
+    <string name="btn_accept_text">Принять</string>
+    <string name="btn_reject_text">Отклонить</string>
+    <string name="btn_chose_text">Выбрать</string>
+    <string name="btn_add_members_text">Добавить участников</string>
+    <string name="btn_look_members_text">Посмотреть участников</string>
+    <string name="btn_ok">ОК</string>
+    <string name="btn_cancel">Отменить</string>
+    <string name="btn_finish_trip">Завершить поездку</string>
+    <string name="btn_chose_divide_way">Выбрать способ\n разделения расхода</string>
+
+    <string name="title_trips">Поездки</string>
+    <string name="title_notifications">Уведомления</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_calendar">Выберите промежуток</string>
+    <string name="title_my_trips">Мои поездки</string>
+    <string name="title_expenses">Расходы</string>
+
+    <string name="profile_screen_settings_header">Настройки</string>
+    <string name="profile_screen_tab_archive">Архив поездок</string>
+    <string name="profile_screen_tab_privacy">Конфиденциальность</string>
+    <string name="profile_screen_tab_change_locale">Сменить язык</string>
+    <string name="profile_screen_tab_logout">Выход</string>
+
+    <string name="tab_text_planned_expenses">Запланированные расходы</string>
+    <string name="tab_text_actual_expenses">Фактические расходы</string>
+    <string name="tab_text_expense_category_tickets">Билеты</string>
+    <string name="tab_text_expense_category_hotels">Отели</string>
+    <string name="tab_text_expense_category_food">Питание</string>
+    <string name="tab_text_expense_category_fun">Развлечения</string>
+    <string name="tab_text_expense_category_insurance">Страховка</string>
+    <string name="tab_text_expense_category_other">Другие расходы</string>
+    <string name="tab_text_divide_expense_equally">Поровну</string>
+    <string name="tab_text_divide_expense_not_equally">Не поровну</string>
+
+    <string name="price_per_person">%1$.2f ₽/человек</string>
+    <string name="price_persons_num">(%1$d человек(а))</string>
+    <string name="price_div">%1$.2f ₽ из %2$.2f</string>
+    <string name="price_left">%1$.2f ₽ осталось</string>
+    <string name="you_owe">Вы задолжали\n%1$.2f ₽</string>
+    <string name="you_was_owen">Вам задолжали\n%1$.2f ₽</string>
+    <string name="rub">₽</string>
+
+    <string name="trip_status_active">Активна</string>
+    <string name="trip_status_archived">Архив</string>
+    <string name="trip_status_unknown">Неизвестно</string>
+
+    <string name="notification_invitation_title">Приглашение в поездку</string>
+    <string name="notification_invitation_subtitle">Вас приглашают в поездку</string>
+
+    <string name="invitation_text">приглашает вас в поездку</string>
+
+    <string name="phone_num_regex">Номер телефона должен быть в формате "7XXXXXXXXXX"</string>
+    <string name="first_name_regex">Имя не может быть длиннее 25 символов и не должно быть пустым</string>
+    <string name="last_name_regex">Фамилия не может быть длиннее 25 символов и не должна быть пустой</string>
+    <string name="password_name_regex">Пароль должен быть минимум 8, максимум 100 символов</string>
+    <string name="repeat_password_error">Повторите пароль снова</string>
+    <string name="trip_title_regex">Название поездки не может быть длиннее 100 символов и не должно быть пустым</string>
+    <string name="not_empty_regex">Это поле должно не может быть пустым</string>
+    <string name="expense_description_regex">Описание расхода не может быть пустым и не должно быть длиннее 500 символов</string>
+
+    <string name="dialog_language_option_ru">Русский</string>
+    <string name="dialog_language_option_en">Английский</string>
+    <string name="dialog_language_btn_done">Готово</string>
+    <string name="dialog_language_btn_cancel">Отмена</string>
+</resources>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">T-Trips</string>
+    <string name="btn_back_description">Back</string>
+    <string name="top_bar_header_add_trip">Add Trip</string>
+    <string name="top_bar_header_edit_profile">Edit Profile</string>
+    <string name="top_bar_header_add_members">Add Members</string>
+    <string name="top_bar_header_add_expense">Add Expense</string>
+    <string name="top_bar_header_list_members">Members List</string>
+    <string name="top_bar_header_look_trip_info">Trip Details</string>
+    <string name="top_bar_header_look_expense_info">Expense Details</string>
+    <string name="top_bar_header_notifications">Notifications</string>
+    <string name="top_bar_header_divide_expense">Divide Expense</string>
+    <string name="top_bar_header_report">Trip Completion Report</string>
+
+    <string name="exception_msg_invalid_data_input">Incorrect data input</string>
+    <string name="exception_msg_not_found">No data found</string>
+    <string name="exception_msg_forbidden">Access is restricted</string>
+    <string name="exception_msg_unauthorized">Authorization is required</string>
+    <string name="exception_msg_common">Unknown error</string>
+    <string name="exception_msg_user_exist">User search error</string>
+    <string name="exception_msg_auth_wrong_credentials">Incorrect username or password</string>
+    <string name="exception_msg_auth">Authorization error</string>
+    <string name="exception_msg_trip">Trip receipt error</string>
+    <string name="exception_msg_picture">Image upload error</string>
+    <string name="exception_msg_profile">Error receiving profile data</string>
+    <string name="exception_msg_update_data">Information update error</string>
+    <string name="exception_msg_planned_expenses">Error in receiving planned expenses</string>
+    <string name="exception_msg_actual_expenses">Error in receiving actual expenses</string>
+    <string name="exception_msg_invitation">Error receiving invitations</string>
+    <string name="exception_msg_invitation_details">Error receiving information about the invitation</string>
+    <string name="exception_msg_save_actual_expense">Error saving the actual expense</string>
+    <string name="exception_msg_save_planned_expense">Error saving the planned expense</string>
+    <string name="exception_msg_debt">Error in receiving debt data</string>
+
+    <string name="exception_msg_log_out">Log out error</string>
+    <string name="exception_msg_add_trip">Error adding a trip</string>
+    <string name="exception_msg_check_members">Error receiving users</string>
+    <string name="exception_msg_invite_members">User Invitation error</string>
+
+
+    <string name="msg_update_data_success">Data updated successfully</string>
+    <string name="msg_delete_data_success">Data deleted successfully</string>
+    <string name="msg_save_data_success">Data saved successfully</string>
+    <string name="msg_finish_trip_success">Trip completed and archived</string>
+    <string name="msg_accept_invitation_success">You have accepted the invitation</string>
+    <string name="msg_reject_invitation_success">You have rejected the invitation</string>
+
+    <string name="placeholder_text_input">Enter</string>
+    <string name="label_name">First Name</string>
+    <string name="label_surname">Last Name</string>
+    <string name="label_pass">Password</string>
+    <string name="label_phone_number">Phone Number</string>
+    <string name="label_repeat_pass">Repeat Password</string>
+    <string name="label_title">Title</string>
+    <string name="label_budget">Budget</string>
+    <string name="label_choose_date">Choose Date</string>
+    <string name="label_description">Description</string>
+    <string name="label_amount">Amount</string>
+    <string name="label_category">Category</string>
+    <string name="label_who_you_paid">Who did you pay for?</string>
+    <string name="label_you_paid_for">You paid for</string>
+    <string name="label_paid_for">paid for</string>
+    <string name="label_receipt">Receipt</string>
+    <string name="label_add_receipt">Add Receipt</string>
+    <string name="label_added_receipt">Receipt added</string>
+    <string name="label_way_to_divide_amount">Way to divide the amount:</string>
+
+    <string name="paid_for_all">Everyone</string>
+
+    <string name="auth_screen_phone_num_header">Enter\nphone number</string>
+    <string name="auth_screen_phone_num_text">To sign in or become\na T-Trips client</string>
+    <string name="auth_screen_pass_header">Enter password</string>
+    <string name="registration_screen_header">Become a T-Trips client</string>
+    <string name="registration_screen_text">Provide your details to use all app features</string>
+
+    <string name="archive_screen_text">Tap on a trip\nto see the report</string>
+
+    <string name="report_title">Trip "%1$s"\ncompleted</string>
+    <string name="report_subtitle">Tap on a user\nto see debt details</string>
+    <string name="report_left_amount">Balance: %1$d ₽</string>
+    <string name="debts">Debts</string>
+
+    <string name="contacts_screen_text">My Contacts</string>
+
+    <string name="btn_continue_text">Continue</string>
+    <string name="btn_save_text">Save</string>
+    <string name="btn_create_text">Create</string>
+    <string name="btn_add_text">Add</string>
+    <string name="btn_accept_text">Accept</string>
+    <string name="btn_reject_text">Reject</string>
+    <string name="btn_chose_text">Choose</string>
+    <string name="btn_add_members_text">Add Members</string>
+    <string name="btn_look_members_text">View Members</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_finish_trip">Finish Trip</string>
+    <string name="btn_chose_divide_way">Choose way to\ndivide expense</string>
+
+    <string name="title_trips">Trips</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_calendar">Select Period</string>
+    <string name="title_my_trips">My Trips</string>
+    <string name="title_expenses">Expenses</string>
+
+    <string name="profile_screen_settings_header">Settings</string>
+    <string name="profile_screen_tab_archive">Trips Archive</string>
+    <string name="profile_screen_tab_privacy">Privacy</string>
+    <string name="profile_screen_tab_change_locale">Change Language</string>
+    <string name="profile_screen_tab_logout">Log Out</string>
+
+    <string name="tab_text_planned_expenses">Planned Expenses</string>
+    <string name="tab_text_actual_expenses">Actual Expenses</string>
+    <string name="tab_text_expense_category_tickets">Tickets</string>
+    <string name="tab_text_expense_category_hotels">Hotels</string>
+    <string name="tab_text_expense_category_food">Food</string>
+    <string name="tab_text_expense_category_fun">Entertainment</string>
+    <string name="tab_text_expense_category_insurance">Insurance</string>
+    <string name="tab_text_expense_category_other">Other Expenses</string>
+    <string name="tab_text_divide_expense_equally">Equally</string>
+    <string name="tab_text_divide_expense_not_equally">Not Equally</string>
+
+    <string name="price_per_person">%1$.2f ₽/person</string>
+    <string name="price_persons_num">(%1$d person(s))</string>
+    <string name="price_div">%1$.2f ₽ of %2$.2f</string>
+    <string name="price_left">%1$.2f ₽ left</string>
+    <string name="you_owe">You owe\n%1$.2f ₽</string>
+    <string name="you_was_owen">You are owed\n%1$.2f ₽</string>
+    <string name="rub">₽</string>
+
+    <string name="trip_status_active">Active</string>
+    <string name="trip_status_archived">Archived</string>
+    <string name="trip_status_unknown">Unknown</string>
+
+    <string name="notification_invitation_title">Trip Invitation</string>
+    <string name="notification_invitation_subtitle">You are invited to a trip</string>
+
+    <string name="invitation_text">invites you to a trip</string>
+
+    <string name="phone_num_regex">Phone number must be in the format "7XXXXXXXXXX"</string>
+    <string name="first_name_regex">First name cannot be longer than 25 characters and cannot be empty</string>
+    <string name="last_name_regex">Last name cannot be longer than 25 characters and cannot be empty</string>
+    <string name="password_name_regex">Password must be at least 8 and at most 100 characters</string>
+    <string name="repeat_password_error">Please repeat the password again</string>
+    <string name="trip_title_regex">Trip title cannot be longer than 100 characters and cannot be empty</string>
+    <string name="not_empty_regex">This field cannot be empty</string>
+    <string name="expense_description_regex">Expense description cannot be empty and cannot exceed 500 characters</string>
+
+    <string name="dialog_language_option_ru">Russian</string>
+    <string name="dialog_language_option_en">English</string>
+    <string name="dialog_language_btn_done">Done</string>
+    <string name="dialog_language_btn_cancel">Cancel</string>
+
+</resources>
